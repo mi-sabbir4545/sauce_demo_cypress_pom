@@ -1,6 +1,6 @@
 # sauce_demo_cypress_pom
 
-Run Tests from the Command Line: npx cypress run --spec "cypress/e2e/deshal_user_journey.spec.js"
+Run Tests from the Command Line: npx cypress run
 
 Set Up Your Cypress Project If you haven’t already, follow these steps to initialize your Cypress project:
 Step 1: Install Node.js Ensure Node.js is installed on your machine from the official Node.js website.
